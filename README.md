@@ -11,4 +11,4 @@ https://p-michalski.github.io/homepage/
 - CSS
 - Javascript
 
-Project was made, using BEM convention.
+*Project was made, using BEM convention.*
