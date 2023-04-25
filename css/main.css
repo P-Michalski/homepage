@@ -1,0 +1,18 @@
+.main__button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(212, 212, 212);
+    box-shadow: 7px 11px 11px 0px #76826F;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+}
+
+.main__button:hover {
+    background-color: rgb(154, 154, 154);
+}
+
+.main__image {
+    width: 200px;
+    border-radius: 20px;
+}

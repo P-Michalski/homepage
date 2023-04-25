@@ -1,0 +1,18 @@
+.section {
+    border: 2px dotted black;
+    margin: 30px;
+    padding: 0 20px 10px;
+    border-radius: 20px;
+}
+
+.section__text {
+    color: black;
+}
+
+.section__text--dark {
+    color: white;
+}
+
+.section__text--colored {
+    color: rgb(240, 41, 19);
+}

@@ -1,0 +1,23 @@
+.footer {
+    width: 100%;
+    background-color: rgb(174, 174, 174);
+    margin-top: 30px;
+    margin-bottom: 0;
+    padding: 3px 0;
+}
+
+.footer--dark {
+    background-color: rgb(33, 33, 33);
+}
+
+.footer__text {
+    color: black;
+}
+
+.footer__text--dark {
+    color: white;
+}
+
+.footer__copyright {
+    font-style: italic;
+}

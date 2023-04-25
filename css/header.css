@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+    padding: 20px 0;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    font-style: italic;
+}
+
+.header--dark {
+    background-color: rgb(33, 33, 33);
+}
+
+.header__heading {
+    color: black;
+}
+
+.header__heading--dark {
+    color: white;
+}
